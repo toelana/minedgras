@@ -10,10 +10,10 @@ cd grass
 pip install -r requirements.txt
 ```
 ```
-python3 localgrassdesktopnode.py
+python3 localgrassdesktop.py
 ```
 ```
-python localgrassnode.py
+python3 localgrassnode.py
 ```
 # How to get userid grass
 - login ke web grass , terus inspect / f12 ,  klik console
